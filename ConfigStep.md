@@ -4,6 +4,7 @@
 
   ```bash
   git log  [ commit sau cùng sẽ ở trên đầu]
+  git log --oneline 
   git diff [tên file] để so sánh 2 nhánh khác nhau
   git add [tên file] || git add .
   git commit -m "my message"
