@@ -21,9 +21,13 @@
 
 
     git help -a để check câu lệnh
+  ```
 
 git pull để down source mới nhất về
 git push để up source mới nhất lên github
 git restore [tên file] để restore sau khi đổi nhánh, mà ko muốn lấy cái sự thay đổi của file cũ bên nhánh khác
+git merge --ff-only v1.2.3
 
-  ```
+```
+
+```
